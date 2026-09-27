@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcpbackend": {
+      "type": "http",
+      "url": "https://mcp.mcpbackend.com/mcp"
+    }
+  }
+}

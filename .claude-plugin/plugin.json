@@ -1,0 +1,19 @@
+{
+  "name": "mcpbackend",
+  "version": "1.0.1",
+  "description": "Inspect projects, database schemas, API contracts and usage in MCPBackend. Create projects and tables, configure authentication and row-level security, create server-side API keys and webhooks, and manage team access. Security changes can expose or revoke access and should be reviewed before execution. Project records use the separate data-plane API.",
+  "author": {
+    "name": "MCPBackend",
+    "url": "https://mcpbackend.com"
+  },
+  "homepage": "https://mcpbackend.com",
+  "repository": "https://github.com/mcpbackend/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "claude",
+    "mcpbackend",
+    "oauth"
+  ],
+  "icon": "./.claude-plugin/icon.png"
+}
